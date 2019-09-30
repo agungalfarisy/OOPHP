@@ -5,7 +5,7 @@ class Produk {
 		   $penulis,
 		   $penerbit,
 		   $harga,
-		   $hmlHalaman,
+		   $jmlHalaman,
 		   $waktuMain,
 		   $tipe;
 
